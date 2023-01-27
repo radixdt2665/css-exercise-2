@@ -1,0 +1,73 @@
+body{font-family: Arial, Helvetica, sans-serif;background-color: #FFF8EF;}
+.container{max-width:1280px;padding-left: 15px;padding-right: 15px;margin:0 auto;}
+.color-black{color: #1D1D1D;}
+.color-black-100{color: #414141;}
+.font-20{font-size: 20px;}
+.font-18{font-size: 18px;}
+.color-red{color: #ff0000;}
+.color-blue{color: #130085;}
+.font-normal{font-weight: normal;}
+.d-flex{display: flex;}
+.align-items-baseline{align-items: baseline;}
+.count-number{font-size: 30px;margin: 0;margin-right: 50px;}
+.color-white{color: #ffffff;}
+.font-bold{font-weight: bold;}
+.font-24{font-size: 24px;}
+.mt-15{margin-top: 15px;}
+.ml-0{margin-left: 0;}
+
+.bg-color-white{background-color: #ffffff;}
+.align-items-start{align-items: start;}
+
+hr{border: 1px dashed #D1D1D1;margin: 50px 0}
+.header{background-color: #1D1D1D;text-align: center;position: fixed;width: 100%;top: 0;z-index: 9;}
+.header h2{color:#ff0000;text-decoration: underline;font-size: 38px;padding: 27px 0;margin: 0;text-transform: uppercase;}
+
+.main-section{padding-top: 13rem;color: #1D1D1D;}
+
+.main-heading h1{font-size: 42px;margin-bottom: 0;}
+.main-heading .para{font-size: 20px;color: #414141;}
+
+.audio-tag .main{padding: 10px;}
+.audio-tag audio{width: 350px;}
+
+
+.form-tag-list .input-label{min-width: 200px;}
+.form-tag-list input::placeholder{color: #D7D7D7;}
+.form-tag-list .btn{font-size: 18px;line-height: 22px;padding: 10px 20px;border-radius: 25px;border: 1px solid #000000;}
+.form-tag-list .btn-dark-alt{background-color: transparent;}
+.form-tag-list .btn-dark{background-color: #000000;color: #ffffff;}
+
+.table-tag thead th{border-color: transparent;border: 1px solid #3092F9;}
+
+.table-tag.table-header th{border-color: #ffffff;}
+
+.table-tag .table-main{width: 100%;border-collapse: collapse;}
+.table-tag th{text-align: start;background-color: #3092F9;color: #fff;}
+
+
+
+
+
+.font-weight-div .bg-red{background-color: #ff0000;}
+.font-weight-div .address{line-height: 30px;}
+
+.bg-colors .para{font-size: 18px;padding:12px;}
+.bg-colors .w-50{width: 50%;}
+.bg-orange{background-color: #FB6050;}
+.bg-yellow{background-color: #FBA333;}
+.bg-blue{background-color: #3092F9;}
+.bg-green{background-color: #45B375;}
+
+.color-yellow{color: #FBA333;}
+
+.span-border span{border: 1px solid;padding: 20px;display: inline-block;margin-bottom: 10px;}
+
+.order-unorder-list ol{margin-left:50px}
+
+.dl-dd-list .dl dt,dd{line-height: 23px;}
+
+
+
+
+.form-tag-list .btn{font-size: 18px;padding: 10px 15px}
